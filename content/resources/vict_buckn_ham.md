@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: vict_buckn_ham.jpg
+type: OCWImage
 uid: 84e82b03-5618-1b94-d7c8-ea37f433ac16
 ---

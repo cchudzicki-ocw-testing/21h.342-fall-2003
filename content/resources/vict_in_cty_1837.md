@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: vict_in_cty_1837.jpg
+type: OCWImage
 uid: ef1c2335-059a-78fd-d309-84f1917d81ab
 ---

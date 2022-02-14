@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Image
 title: ggiiislide13.jpg
+type: OCWImage
 uid: be65c665-192d-8d0b-030f-4afbc00435a1
 ---
