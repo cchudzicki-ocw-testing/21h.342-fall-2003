@@ -5,6 +5,7 @@ description: This resource contains information about subject description, assig
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-342-the-royal-family-fall-2003/710429ba190537d90617f231a7cf9fcc_MIT21H_342f03_syllf03.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
