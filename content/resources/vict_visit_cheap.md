@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: vict_visit_cheap.jpg
-type: OCWImage
 uid: 2c8b3f87-b43f-550d-59e7-078bd6bedf5b
 ---

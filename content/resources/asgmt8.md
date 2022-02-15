@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: asgmt8.pdf
-type: OCWFile
 uid: 623923ed-8025-dea4-0532-b76fbfd0a112
 ---

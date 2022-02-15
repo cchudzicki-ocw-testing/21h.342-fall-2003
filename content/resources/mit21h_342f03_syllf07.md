@@ -9,6 +9,5 @@ parent_title: Syllabus
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_342f03_syllf07.pdf
-type: OCWFile
 uid: 3a11b57e-ca87-2664-7a96-f537855acca7
 ---

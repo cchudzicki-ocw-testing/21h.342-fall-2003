@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: vict_lord_mayor.jpg
-type: OCWImage
 uid: 4d84fbab-de4c-8b7d-c6c6-a415b630f208
 ---

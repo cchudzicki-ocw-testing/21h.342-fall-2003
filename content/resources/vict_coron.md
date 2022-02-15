@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: vict_coron.jpg
-type: OCWImage
 uid: b645d03a-70cc-5965-7f1e-0c350e10beb8
 ---

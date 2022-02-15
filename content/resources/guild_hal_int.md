@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: guild_hal_int.jpg
-type: OCWImage
 uid: 083141a5-466c-4619-1351-e0b5fc8f1bcc
 ---

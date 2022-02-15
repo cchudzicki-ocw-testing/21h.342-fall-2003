@@ -12,6 +12,5 @@ parent_title: Study Materials
 parent_type: CourseSection
 resourcetype: Image
 title: ggivslide6.jpg
-type: OCWImage
 uid: 937cedf0-5609-c2da-cdea-0bba18149a32
 ---

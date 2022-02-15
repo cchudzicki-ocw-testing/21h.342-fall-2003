@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: asgmt3.pdf
-type: OCWFile
 uid: 566bb073-9089-b2c5-c61d-48d4c4af48e7
 ---
