@@ -16,9 +16,9 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Fall 2007, Harriet Ritvo ({{< resource_link 3a11b57e-ca87-2664-7a96-f537855acca7 "PDF" >}})
+> Fall 2007, Harriet Ritvo ({{% resource_link 3a11b57e-ca87-2664-7a96-f537855acca7 "PDF" %}})
 > 
-> Fall 2003, Harriet Ritvo ({{< resource_link 710429ba-1905-37d9-0617-f231a7cf9fcc "PDF" >}})
+> Fall 2003, Harriet Ritvo ({{% resource_link 710429ba-1905-37d9-0617-f231a7cf9fcc "PDF" %}})
 
 Subject Description
 -------------------
