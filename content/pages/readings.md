@@ -259,7 +259,7 @@ Pearson, John. *The Selling of the Royal Family: The Mystique of the British Mon
 
 Pearsall, Ronald. *Kings & Queens: A History of British Monarchy.* New York: Todtri Productions, 1996.
 
-Rapport, Nigel. *British Subjects: An Anthropology of Britain.* Oxford\_.\_ New York: Berg, 2002.
+Rapport, Nigel. *British Subjects: An Anthropology of Britain.* Oxford. New York: Berg, 2002.
 
 Russell, Conrad. *The Fall of the British Monarchies, 1637-1642.* Oxford, New York: Clarendon Press, Oxford University Press, 1991.
 
