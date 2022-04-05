@@ -24,7 +24,7 @@ An exploration of British culture and politics, focusing on the changing role of
 
 ## Required Texts
 
-Griffiths, Ralph Alan, and John Ashton Cannon. \_The Oxford Illustrated History of the British Monarchy.
+Griffiths, Ralph Alan, and John Ashton Cannon. *The Oxford Illustrated History of the British Monarchy*.
 
 Strachey, Lytton. *Queen Victoria.*   
 Townsend, Sue. *The Queen and I.*
