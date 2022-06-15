@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Selection of images from cards and cartoons of George III, George IV
+  and Queen Victoria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
