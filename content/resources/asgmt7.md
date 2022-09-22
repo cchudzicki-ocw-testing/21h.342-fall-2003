@@ -5,6 +5,7 @@ file: /courses/21h-342-the-royal-family-fall-2003/06fa178db6a4e1386c35c0ee651385
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
